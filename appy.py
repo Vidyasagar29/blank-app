@@ -5,7 +5,7 @@ import numpy as np
 
 # Function to fetch Nifty data using yfinance
 def fetch_nifty_data():
-    nifty = yf.Ticker('^CNXIT')
+    nifty = yf.Ticker('^NSEI')
     data = nifty.history(period='10y', interval='1d')  # Fetch 1 year of daily data
     return data
 
