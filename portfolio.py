@@ -25,7 +25,7 @@ portfolio_values = pd.DataFrame()
 # Define portfolio details
 portfolio_info = [
     {'Symbol': 'HDFCBANK', 'Ticker': 'HDFCBANK.NS', 'Qty': 849, 'Buy Price': 1661.73, 'Buy Value': 1410809},
-    {'Symbol': 'WIPRO', 'Ticker': 'WIPRO.NS', 'Qty': 973, 'Buy Price': 441.65, 'Buy Value': 429725},
+    {'Symbol': 'WIPRO', 'Ticker': 'WIPRO.NS', 'Qty': 1946, 'Buy Price': 220.82, 'Buy Value': 429725},
     {'Symbol': 'KOTAKBANK', 'Ticker': 'KOTAKBANK.NS', 'Qty': 103, 'Buy Price': 1581.3, 'Buy Value': 162874},
     {'Symbol': 'RELIANCE', 'Ticker': 'RELIANCE.NS', 'Qty': 1515, 'Buy Price': 1350, 'Buy Value': 2045250},
     {'Symbol': 'NIPPON INDIA BANKNIFTY ETF', 'Ticker': 'BANKBEES.NS', 'Qty': 17024, 'Buy Price': 516.67, 'Buy Value': 8795790},
